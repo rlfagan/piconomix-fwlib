@@ -1,4 +1,5 @@
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpiconomix-fwlib.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpiconomix-fwlib?ref=badge_shield)
+
 
 ![](https://github.com/piconomix/piconomix-fwlib/blob/master/doc/images/hero_board/hero_board_isometric_top_bot.jpg)
 
@@ -138,3 +139,7 @@ the shop.
 Click [HERE](http://piconomix.com/shop/) to visit the shop
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpiconomix-fwlib.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpiconomix-fwlib?ref=badge_large)
